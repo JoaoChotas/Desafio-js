@@ -1,6 +1,6 @@
-let Nome = "João Chotas";
-let idade = 32;
-let x = true;
+var Nome = 'João Chotas';
+var idade = 32;
+var x = true;
 
 console.log(Nome);
 console.log(idade);
